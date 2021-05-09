@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 title: DARTS
-summary: An example of using the in-built project page.
+summary: This is for DARTS
 url_video: ""
 date: 2021-05-09T22:59:26.419Z
 external_link: https://esto.nasa.gov/wp-content/uploads/2020/07/Lavalle-DARTS.pdf
