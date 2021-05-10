@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-title: DARTS
+title: Example
 summary: This is for DARTS
 url_video: ""
 date: 2021-05-09T22:59:26.419Z

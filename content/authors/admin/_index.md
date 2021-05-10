@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: PhD in Aeronautics
-    institution: The University of Sydney and Université Libre de Bruxelles
+    institution: The University of Sydney and \n Université Libre de Bruxelles
     year: 2018
   - course: B.Eng (Aeronautics) Hons I
     institution: The University of Sydney
@@ -41,7 +41,7 @@ social:
   icon_pack: fas
   link: '/#contact'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=yG6xm2gAAAAJ&hl=en
 - icon: github
   icon_pack: fab
@@ -62,8 +62,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-LONG BIOGRAPHY
 
-This is my long description
+This is my long description and has all the different things I do
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_anderson.pdf" "newtab" >}}resumé{{< /staticref >}}.
