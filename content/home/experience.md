@@ -101,7 +101,7 @@ experience:
 
 widget_id: experience_test
 headless: true
-weight: 50
+weight: 70
 title: Experience
 subtitle: null
 design:

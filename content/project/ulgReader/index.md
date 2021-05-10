@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ulog Reader (MATLAB)"
-summary: "Import PX4 ulog files into MATLAB"
+title: "ulg Reader (MATLAB)"
+summary: "Import PX4 ulg files into MATLAB"
 authors: []
 tags: [code, highlights, aero]
 categories: [code]

@@ -40,7 +40,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=yG6xm2gAAAAJ&hl=en
 - icon: github
@@ -49,20 +49,17 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/matt-anderson-uav/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
+   
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "anderson_rayner@hotmail.com"
 superuser: true
 highlight_name: false
 ---
 
 This is my long description and has all the different things I do
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_anderson.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}cv{{< /staticref >}}.

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "NeBula: Quest for Robotic Autonomy in Challenging Environments; TEAM CoSTAR at the DARPA Subterranean Challenge"
-authors: [Ali Agha, et al.]
+authors: [Ali Agha, Kyohei Otsu, Benjamin Morrell, and more]
 date: 2021-03-21
 doi: ""
 
