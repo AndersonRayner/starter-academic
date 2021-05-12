@@ -4,7 +4,7 @@
 title: "Design of the Next-Generation Autonomous Flying Ambulance"
 authors: [Ellande Tang, Patrick Spieler, Matthew Anderson, Soon-Jo Chung]
 date: 2021-02-01
-doi: ""
+doi: "10.2514/6.2021-1514"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-02-01
@@ -19,10 +19,10 @@ publication_types: ["1"]
 publication: "AIAA Scitech 2021 Forum"
 publication_short: "Scitech 2021"
 
-abstract: "This is the abstract"
+abstract: "As electric aircraft take to the skies, it is becoming common to speculate on potential niches in which to apply the technology. One promising role for these vehicles is in the medical domain, a role currently filled by helicopters. A Vertical Take-Oﬀ and Landing (VTOL) aircraft with autonomous capabilities could avoid obstacles and transport injured patients to receive critical medical care more quickly than land-based options. This paper presents the design of a novel, fully-electric VTOL aircraft designed to satisfy a medical transport mission by carrying a patient and a paramedic a moderate distance. The paper also presents a scale vehicle model that can be used to test the vehicle design and potential autonomy technologies as well as the special design considerations unique to a VTOL with ﬁxed-wing capabilities. The resultant vehicle will represent the state-of-the-art of what is possible with existing hardware while remaining a ﬂexible platform for autonomy research."
 
 # Summary. An optional shortened abstract.
-summary: "This is the summary"
+summary: ""
 
 tags: []
 categories: []
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [AFA]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

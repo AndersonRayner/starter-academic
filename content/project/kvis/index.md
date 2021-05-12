@@ -9,7 +9,7 @@ categories: []
 date: 2021-05-09T18:56:00-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/flyingk/kVIS3"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

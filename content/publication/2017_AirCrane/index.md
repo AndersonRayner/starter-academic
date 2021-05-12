@@ -19,12 +19,12 @@ publication_types: ["1"]
 publication: "17th Australian Aerospace Congress"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper discusses the development and successful flight testing of a multirotor sky-crane system used for launching aircraft from altitude.  Research and testing has been conducted on the  configuration  of  the  multi-rotor, the length of the cable to reduce the influence of the downwash on the load, the launch cradle design which holds the load in the correct position until release and the launch procedures to ensure safe operation of both the multi-rotor and the test airframe. Flight testing with an instrumented test aircraft allowed the determination of the optimum launch attitude and the general operating procedures, including a fast and safe method for the sky-crane to rapidly descent from altitude after the launch."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [fav]
+tags: []
 categories: []
 featured: false
 

@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Volcano Drone's mission is to autonomously sample volcanic fumaroles and return pristine gas samples.  Volcanoes represent one of the harshest enviroments on the planets - steep terrain, high temperatures and noxious gases - making them the perfect candidate for automous exploration.

@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "arXiv preprint arXiv:2103.11470"
 publication_short: "arXiv"
 
-abstract: ""
+abstract: "This paper presents and discusses algorithms, hardware, and software architecture developedby the TEAM CoSTAR (Collaborative SubTerranean Autonomous Robots), competing inthe DARPA Subterranean Challenge.  Specifically, it presents the techniques utilized withinthe Tunnel (2019) and Urban (2020) competitions,  where CoSTAR achieved 2nd and 1stplace, respectively. We also discuss CoSTAR’s demonstrations in Martian-analog surface andsubsurface (lava tubes) exploration. The paper introduces our autonomy solution, referred toas NeBula (Networked Belief-aware Perceptual Autonomy).  NeBula is an uncertainty-awareframework that aims at enabling resilient and modular autonomy solutions by performingreasoning and decision making in the belief space (space of probability distributions overthe  robot  and  world  states).   We  discuss  various  components  of  the  NeBula  framework,including:  (i) geometric and semantic environment mapping; (ii) a multi-modal positioningsystem;  (iii)  traversability  analysis  and  local  planning;  (iv)  global  motion  planning  andexploration  behavior;  (i)  risk-aware  mission  planning;  (vi)  networking  and  decentralizedreasoning; and (vii) learning-enabled adaptation.  We discuss the performance of NeBula onseveral robot types (e.g.  wheeled, legged, flying), in various environments.  We discuss thespecific results and lessons learned from fielding this solution in the challenging courses ofthe DARPA Subterranean Challenge competition."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,8 +35,14 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-# https://arxiv.org/pdf/1911.10269.pdf
-url_pdf:
+
+links:
+- name: Website
+  url: https://costar.jpl.nasa.gov/
+  #icon_pack: fab
+  #icon: twitter
+  
+url_pdf: https://arxiv.org/abs/2103.11470
 url_code:
 url_dataset:
 url_poster:

@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Teensy 4.0 Breakout Board"
-summary: "All about kvis"
+summary: "A breakout board for the Teensy 4.0"
 authors: []
 tags: [circuits]
 categories: []
 date: 2021-05-09T18:56:00-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/AndersonRayner/teensy_4.0_breakout"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

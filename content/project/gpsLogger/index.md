@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "F9P GPS Logger Board"
-summary: "All about the board"
+summary: "A simple, OpenLog-based logger for the ArduSimple simpleRTK2Blite F9P GPS."
 authors: []
 tags: [circuits]
 categories: [circuits]
 date: 2021-05-09T18:56:00-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/AndersonRayner/simpleRTK2Blite_logger"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
