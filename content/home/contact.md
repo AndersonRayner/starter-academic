@@ -23,6 +23,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
+      subject: "this is a test subject"
       captcha: true
   
 design:
