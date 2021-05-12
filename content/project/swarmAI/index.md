@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "swarmAI"
-summary: "sldkjf"
+summary: "A self-improving, neural tree expansion method for multi-robot online planning in non-cooperative environments"
 authors: []
 tags: [robotics, code]
 categories: []
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "publication/2021_swarm/2021_Swarm.pdf"
 url_slides: ""
 url_video: ""
 

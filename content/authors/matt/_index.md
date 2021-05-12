@@ -60,9 +60,6 @@ superuser: true
 highlight_name: false
 ---
 
+Field robotist, aero engineer, and (occasionally) a programmer who is always looking for the next challenging adventure.
 
-
-This is my long description and has all the different things I do
-
-# CV path at relative to static/
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ANDERSON_Matt.pdf" "newtab" >}}cv{{< /staticref >}}.

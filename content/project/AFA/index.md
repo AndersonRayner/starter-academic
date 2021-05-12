@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "AFA"
-summary: "Distributed Apeture RADAR Tomographic Something"
+summary: "Developing a next-generation flight test platform for autonomy algorithm development"
 authors: []
 tags: [aero]
 categories: [UAS]

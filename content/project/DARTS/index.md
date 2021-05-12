@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "DARTS"
-summary: "Distributed Apeture RADAR Tomographic Something"
+summary: "Distributed Aperture RADAR Tomographic Sensors for mapping the surface topography and vegetation structures of planet Earth"
 authors: []
 tags: [aero]
 categories: [UAS]

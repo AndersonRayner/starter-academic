@@ -14,7 +14,7 @@ font_size: L
 
 # SEO
 
-site_type: Person
+site_type: Personal
 local_business_type: 'Aeronautics'
 org_name: 'matt-aero.com'
 description: ''
@@ -57,7 +57,7 @@ twitter: ''
 
 main_menu:
   enable: true
-  align: l
+  align: 1
   show_logo: true
   show_language: false
   show_day_night: true

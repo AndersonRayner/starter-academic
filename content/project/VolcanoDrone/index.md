@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Volcano Drone"
-summary: "this is a project summary"
+summary: "A UAV-borne system to autonomously locate and sample volcanic fumaroles"
 authors: []
 tags: [aero,highlights]
 categories: []
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "publication/2021_volcano/2021_Volcano.pdf"
 url_slides: ""
 url_video: ""
 
