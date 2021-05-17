@@ -52,5 +52,3 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-I SHOULD PUT SOMETHING IN HERE LIKE BLOG POSTS (extracting obeservation data from Mission Planner for example)
-The .gpsbase file Mission Planner generates is just an RTCM3 file in disguise

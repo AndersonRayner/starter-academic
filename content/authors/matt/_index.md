@@ -60,6 +60,8 @@ superuser: true
 highlight_name: false
 ---
 
-Field robotist, aero engineer, and (occasionally) a programmer who is always looking for the next challenging adventure.
+Field robotist, aero engineer, and (occasionally) a programmer who is always looking for the next challenging adventure.  Whether the mission is deep underground or high in the air, I can duct tape, hot glue, and hack my way to success.
+
+While you're here, check out my projects, publications, and feel free to contact me below.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ANDERSON_Matt.pdf" "newtab" >}}cv{{< /staticref >}}.

@@ -17,19 +17,30 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: earlybirds
-  icon_pack: fab
-  name: R
-- description: 
-  icon: chart-line
+  icon: crow
   icon_pack: fas
-  name: Statistics
+  name: Field Testing
 - description: 
-  icon: camera-retro
+  icon: wrench
   icon_pack: fas
-  name: Photography
+  name: System Integration
+- description: 
+  icon: gamepad
+  icon_pack: fas
+  name: UAS Pilot/GCO
+- description: 
+  icon: laptop-code
+  icon_pack: fas
+  name: ROS, C/C++
+- description: 
+  icon: wave-square
+  icon_pack: fas
+  name: System Identification
+- description: 
+  icon: plane
+  icon_pack: fas
+  name: Aircraft Design
   
-
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

@@ -21,9 +21,9 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+- name: Website
+  url: https://costar.jpl.nasa.gov/
 #   icon_pack: fab
 #   icon: twitter
 
