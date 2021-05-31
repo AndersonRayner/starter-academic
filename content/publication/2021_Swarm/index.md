@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 # https://arxiv.org/pdf/1911.10269.pdf
-url_pdf:
+url_pdf: https://arxiv.org/pdf/2104.09705.pdf
 url_code:
 url_dataset:
 url_poster:

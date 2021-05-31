@@ -32,10 +32,14 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: ROS, C/C++
+#- description: 
+#  icon: wave-square
+#  icon_pack: fas
+#  name: System Identification
 - description: 
-  icon: wave-square
+  icon: cube
   icon_pack: fas
-  name: System Identification
+  name: Rapid Prototyping
 - description: 
   icon: plane
   icon_pack: fas

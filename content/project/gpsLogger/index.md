@@ -21,13 +21,13 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+- name: github
+  url: https://github.com/AndersonRayner/simpleRTK2Blite_logger
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/flyingk/kVIS3"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
