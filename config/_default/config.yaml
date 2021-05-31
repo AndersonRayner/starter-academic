@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Matt Anderson # Website name
-baseurl: 'https://anderson-rayner.netlify.app/' # Website URL
+baseurl: 'https://andersonrayner.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################

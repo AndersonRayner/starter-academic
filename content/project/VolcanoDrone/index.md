@@ -40,4 +40,11 @@ url_video: ""
 slides: ""
 ---
 
-Volcano Drone's mission is to autonomously sample volcanic fumaroles and return pristine gas samples.  Volcanoes represent one of the harshest enviroments on the planets - steep terrain, high temperatures and noxious gases - making them the perfect candidate for automous exploration.
+Volcano Drone's mission is to autonomously sample volcanic fumaroles and return pristine gas samples.  Volcanoes represent one of the harshest enviroments on the planets - steep terrain, high temperatures and noxious gases - making them the perfect candidate for automous exploration.  Below are some images taken from a field trip to the fumaroles of Mammoth Valley.
+
+![Volcano](/media/Volcano/volcano0.jpg)
+![Volcano](/media/Volcano/volcano1.jpg)
+![Volcano](/media/Volcano/volcano2.jpg)
+![Volcano](/media/Volcano/volcano3.jpg)
+![Volcano](/media/Volcano/volcano4.jpg)
+
