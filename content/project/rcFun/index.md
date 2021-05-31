@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "swarmAI"
-summary: "A self-improving, neural tree expansion method for multi-robot online planning in non-cooperative environments"
+title: "R/C Fun"
+summary: "Fun R/C stuff, but really just the cool photos"
 authors: []
-tags: [robotics, code]
+tags: [aero]
 categories: []
 date: 2021-05-09T18:56:00-07:00
 
@@ -21,14 +21,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+- name: uav-lab.org
+  url: http://uav-lab.org/
 #   icon_pack: fab
 #   icon: twitter
 
 url_code: ""
-url_pdf: "https://arxiv.org/pdf/2104.09705.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -39,3 +39,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+
+![rcFun](/media/rcFun/bonsai.jpg)
+![rcFun](/media/rcFun/dlg.jpg)
+![rcFun](/media/rcFun/iris.png)
+![rcFun](/media/rcFun/midQuad.png)
+![rcFun](/media/rcFun/pylon.jpg)
+![rcFun](/media/rcFun/miniSkywalker.jpg)
+![rcFun](/media/rcFun/albatross.jpg)
+![rcFun](/media/rcFun/quad.jpg)
+

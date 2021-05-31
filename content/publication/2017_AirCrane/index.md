@@ -43,7 +43,7 @@ url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: https://www.youtube.com/watch?v=WshOAMU8E0c
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [rcFun]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
