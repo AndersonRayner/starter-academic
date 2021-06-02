@@ -27,14 +27,14 @@ content:
   filter_button:
   - name: Highlights
     tag: highlights
-  - name: Code
-    tag: code
-  - name: Circuits
-    tag: circuits
   - name: Robotics
     tag: robotics
   - name: Aero
     tag: aero
+  - name: Code
+    tag: code
+  - name: Circuits
+    tag: circuits
   - name: All
     tag: '*'
 

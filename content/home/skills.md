@@ -19,19 +19,19 @@ feature:
 - description: 
   icon: crow
   icon_pack: fas
-  name: Field Testing
+  name: Extreme Environment <br> Field Testing
 - description: 
   icon: wrench
   icon_pack: fas
-  name: System Integration
+  name: System Integration <br> and Architecture
 - description: 
   icon: gamepad
   icon_pack: fas
-  name: UAS Pilot/GCO
+  name: UAS Pilot / <br> Ground Station Operator
 - description: 
   icon: laptop-code
   icon_pack: fas
-  name: ROS, C/C++
+  name: Embedded Systems <br> C/C++, ROS
 #- description: 
 #  icon: wave-square
 #  icon_pack: fas
@@ -39,11 +39,11 @@ feature:
 - description: 
   icon: cube
   icon_pack: fas
-  name: Rapid Prototyping
+  name: Rapid Prototyping </br> and Design
 - description: 
   icon: plane
   icon_pack: fas
-  name: Aircraft Design
+  name: Aircraft Design / <br> System Identification
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
