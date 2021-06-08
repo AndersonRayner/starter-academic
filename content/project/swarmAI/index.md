@@ -39,3 +39,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+SwarmAI is a general name for projects I do that use AI for swarming.
+The images below are from a project where nerual trees are used to generate intelligent paths with very low computational effort.
+These UAVs are playing the Target/Avoid/Reach game, however this technology is applicable to any purpose where a training set can be generated.
+
+
+![swarmAI](/media/swarmAI/swarmAI_1.jpg)
+![swarmAI](/media/swarmAI/swarmAI_2.jpg)
+![swarmAI](/media/swarmAI/swarmAI_3.jpg)
