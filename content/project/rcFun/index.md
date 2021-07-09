@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "R/C Fun"
-summary: "Fun R/C stuff, but really just the cool photos"
+summary: "Photos of fun R/C stuff"
 authors: []
-tags: [aero]
+tags: [aero,highlights]
 categories: []
-date: 2021-05-09T18:56:00-07:00
+date: 2020-05-09T18:56:00-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

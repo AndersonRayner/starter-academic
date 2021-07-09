@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ulg Reader (MATLAB)"
-summary: "Import PX4 ulg files into MATLAB"
+title: "SQUID"
+summary: "A launchable quadrotor designed to deploy quickly and safely from a vehicle"
 authors: []
-tags: [code, aero]
-categories: [code]
-date: 2021-04-09T18:56:00-07:00
+tags: [aero]
+categories: []
+date: 2021-05-09T18:56:00-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/AndersonRayner/ulgReader"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/AndersonRayner/ulgReader"
-url_pdf: ""
+url_code: ""
+url_pdf: "publication/2020_SQUID/2020_SQUID.pdf"
 url_slides: ""
 url_video: ""
 
@@ -40,4 +40,8 @@ url_video: ""
 slides: ""
 ---
 
-ulgReader is an open-source code for natively importing PX4 ulg files into MATLAB.  It offers significantly reduced import times and reduced complexity over existing open source methods the utilise a python conversions to csv files.
+![SQUID](/media/SQUID/squid0.jpg)
+![SQUID](/media/SQUID/squid1.jpg)
+![SQUID](/media/SQUID/squid2.jpg)
+![SQUID](/media/SQUID/squid3.jpg)
+
